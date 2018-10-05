@@ -11,6 +11,7 @@ Basic mock-up of a fully automated rocket landing on a droneship using Kerbal Sp
   * landing_git_v1_20181004.py
   * Grasshopper_9.craft
   * Landing.png
+  * hire.png
   
 ## Software ######
 
@@ -40,6 +41,7 @@ Basic mock-up of a fully automated rocket landing on a droneship using Kerbal Sp
   5. Install Python 2.7
   6. Install kRPC, numpy, pandas, and time libraries
   7. Copy landing_git_v1_20181004.py into the python directory
+  8. (Optional) Copy the hire.png file into the Flags folders in the game directory "...\Kerbal Space Program\GameData\Squad\Flags"
 
 ## Running the Simulation #####
 
