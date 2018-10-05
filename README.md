@@ -4,8 +4,8 @@ Basic mock-up of a fully automated rocket landing on a droneship using Kerbal Sp
 ## Files ######
 
   * README.md
-  * xxxx.py
-  * xxxx.ship
+  * landing_git_v1_20181004.py
+  * Grasshopper_9.ship
   
 ## Software ######
 
@@ -24,24 +24,25 @@ Basic mock-up of a fully automated rocket landing on a droneship using Kerbal Sp
   * [kRPC](https://krpc.github.io/krpc/)
   * [numpy](http://www.numpy.org/)
   * [pandas](https://pandas.pydata.org/)
+  * [time](https://docs.python.org/2/library/time.html)
 
 ## Installation Instructions #####
 
   1. Install Kerbal Space Program
   2. Install CKAN
-  3. Put the xxxx.ship into the ship folder in the game directory ".../Game/..."
+  3. Put the Grasshopper_9.ship into the VAB folder in the game directory "...\Kerbal Space Program\Ships\VAB"
   4. Use CKAN to install kRPC and Kerbal Reusability Expansion
   5. Install Python 2.7
   6. Install kRPC, numpy, and pandas libraries
-  7. Copy xxxx.py into the python directory
+  7. Copy landing_git_v1_20181004.py into the python directory
 
 ## Running the Simulation #####
 
   1. Launch KSP from CKAN
   2. Create a new sandbox game
-  3. Click on launchpad and select the "xxxx" ship
+  3. Click on launchpad and select the "Grasshopper_9" ship
   4. Open the in-game kRPC display and select create/start server
-  5. Go to python and run the xxxx.py file
+  5. Go to python and run the landing_git_v1_20181004.py file
   6. Watch the simulation in KSP
   7. Telemetry data is saved as a pandas dataframe in python
   8. Plot telemetry by loading the dataframe and plotting with matplotlib
