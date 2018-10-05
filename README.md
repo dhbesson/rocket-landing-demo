@@ -1,23 +1,29 @@
 # rocket-landing-demo
 Basic mock-up of a fully automated rocket landing on a droneship using Kerbal Space Program, the kRPC add-on, and Python. 
+  
+## Files ######
 
+  * README.md
+  * xxxx.py
+  * xxxx.ship
+  
 ## Software ######
 
-  * Kerbal Space Program v___
-  * Python 2.7
-  * CKAN v__
+  * [Kerbal Space Program](https://www.kerbalspaceprogram.com/en/)
+  * [Python 2.7](https://www.python.org/download/releases/2.7/)
+  * [CKAN](https://github.com/KSP-CKAN/CKAN/releases)
   
 ## KSP Add-ons ######
 
-  * kRPC
-  * Kerbal Reusability Expansion
-  * CKAN v__
+  * [kRPC](https://krpc.github.io/krpc/)
+  * [Kerbal Reusability Expansion](https://forum.kerbalspaceprogram.com/index.php?/topic/138871-145-kre-kerbal-reusability-expansion/)
+  * [CKAN](https://github.com/KSP-CKAN/CKAN/releases)
   
 ## Python Libraries #####
 
-  * kRPC
-  * numpy
-  * pandas
+  * [kRPC](https://krpc.github.io/krpc/)
+  * [numpy](http://www.numpy.org/)
+  * [pandas](https://pandas.pydata.org/)
 
 ## Installation Instructions #####
 
