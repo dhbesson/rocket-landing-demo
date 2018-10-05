@@ -40,7 +40,8 @@ Basic mock-up of a fully automated rocket landing on a droneship using Kerbal Sp
   1. Launch KSP from CKAN
   2. Create a new sandbox game
   3. Click on launchpad and select the "xxxx" ship
-  4. Go to python and run the xxxx.py file
-  5. Watch the simulation in KSP
-  6. Telemetry data is saved as a pandas dataframe in python
-  7. Plot telemetry by loading the dataframe and plotting with matplotlib
+  4. Open the in-game kRPC display and select create/start server
+  5. Go to python and run the xxxx.py file
+  6. Watch the simulation in KSP
+  7. Telemetry data is saved as a pandas dataframe in python
+  8. Plot telemetry by loading the dataframe and plotting with matplotlib
