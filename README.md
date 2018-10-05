@@ -1,11 +1,14 @@
 # rocket-landing-demo
 Basic mock-up of a fully automated rocket landing on a droneship using Kerbal Space Program, the kRPC add-on, and Python. 
+
+[Demo video](https://www.youtube.com/watch?v=lo9iUE9d_I8)
   
 ## Files ######
 
   * README.md
   * landing_git_v1_20181004.py
   * Grasshopper_9.ship
+  * Landing.png
   
 ## Software ######
 
