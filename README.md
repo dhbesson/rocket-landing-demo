@@ -38,7 +38,7 @@ Basic mock-up of a fully automated rocket landing on a droneship using Kerbal Sp
   3. Put the Grasshopper_9.craft into the VAB folder in the game directory "...\Kerbal Space Program\Ships\VAB"
   4. Use CKAN to install kRPC and Kerbal Reusability Expansion
   5. Install Python 2.7
-  6. Install kRPC, numpy, and pandas libraries
+  6. Install kRPC, numpy, pandas, and time libraries
   7. Copy landing_git_v1_20181004.py into the python directory
 
 ## Running the Simulation #####
